@@ -20,3 +20,8 @@ Key components of the project:
 The goal is to build a robust regression model that helps investors or startup owners predict their potential profit based on input spending strategies.
 
 Dataset: 50_Startups.csv (commonly used for regression problems)
+[![Open in Colab]
+### 🛠️ Code link:
+<a href="https://colab.research.google.com/drive/1UI13vQbeHanbiCH6HCIxBgCgYQm--fOx?usp=sharing" target="_blank">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="150" alt="Open in Colab">
+</a>
